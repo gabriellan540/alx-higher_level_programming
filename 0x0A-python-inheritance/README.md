@@ -1,1 +1,1 @@
-oython inheritance
+python inheritance
